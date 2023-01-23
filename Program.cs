@@ -1,6 +1,4 @@
-﻿using MIS_321_PA1;
-
-FileHandlin.ReadFromJSON();
+﻿FileHandlin.ReadFromJSON();
 
 Menu.MainMenu();
 
