@@ -1,6 +1,4 @@
 using Newtonsoft.Json;
-
-
 public class FileHandlin
 {
     static public void ReadFromJSON()

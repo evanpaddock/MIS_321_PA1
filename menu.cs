@@ -1,5 +1,5 @@
 public class Menu
-{
+{   
     static public string MainMenu()
     {
         string userSelection;
@@ -19,11 +19,17 @@ public class Menu
                 RouteEm(userSelection);
                 userSelection = MainMenu();
             }
-            
+            if (userSelection == "5")
+            {
+                Console.Clear();
+                System.Console.WriteLine("Thank you for using ...");
+            }
             return userSelection;
     }
     static private void RouteEm(string userSelection)
     {
+        Console.Clear();
+
         switch (userSelection)
         {
             case "1":
@@ -33,12 +39,12 @@ public class Menu
             Song.AddNew();
             break;
             case "3":
-            //Song.Favorite();
+            Song.Favorite();
             break;
             case "4":
+            Song.Delete();
             break;
             default:
-                Console.Clear();
                 System.Console.WriteLine("Invalid Selection. Try again.");
                 Console.ReadKey();
                 MainMenu();

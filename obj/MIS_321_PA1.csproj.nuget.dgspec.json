@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Evan Paddock\\Desktop\\MIS 321\\MIS_321_PA1\\MIS_321_PA1.csproj": {}
+    "/Users/evanpaddock/Desktop/MIS321/PA1/MIS_321_PA1/MIS_321_PA1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Evan Paddock\\Desktop\\MIS 321\\MIS_321_PA1\\MIS_321_PA1.csproj": {
+    "/Users/evanpaddock/Desktop/MIS321/PA1/MIS_321_PA1/MIS_321_PA1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Evan Paddock\\Desktop\\MIS 321\\MIS_321_PA1\\MIS_321_PA1.csproj",
+        "projectUniqueName": "/Users/evanpaddock/Desktop/MIS321/PA1/MIS_321_PA1/MIS_321_PA1.csproj",
         "projectName": "MIS_321_PA1",
-        "projectPath": "C:\\Users\\Evan Paddock\\Desktop\\MIS 321\\MIS_321_PA1\\MIS_321_PA1.csproj",
-        "packagesPath": "C:\\Users\\Evan Paddock\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Evan Paddock\\Desktop\\MIS 321\\MIS_321_PA1\\obj\\",
+        "projectPath": "/Users/evanpaddock/Desktop/MIS321/PA1/MIS_321_PA1/MIS_321_PA1.csproj",
+        "packagesPath": "/Users/evanpaddock/.nuget/packages/",
+        "outputPath": "/Users/evanpaddock/Desktop/MIS321/PA1/MIS_321_PA1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Evan Paddock\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/evanpaddock/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/Cellar/dotnet/7.0.100/libexec/sdk/7.0.100/RuntimeIdentifierGraph.json"
         }
       }
     }

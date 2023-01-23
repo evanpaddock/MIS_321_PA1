@@ -3,20 +3,32 @@
 /Users/evanpaddock/Desktop/MIS321/PA1/MIS_321_PA1/obj/Debug/net7.0/MIS_321_PA1.AssemblyInfoInputs.cache
 /Users/evanpaddock/Desktop/MIS321/PA1/MIS_321_PA1/obj/Debug/net7.0/MIS_321_PA1.AssemblyInfo.cs
 /Users/evanpaddock/Desktop/MIS321/PA1/MIS_321_PA1/obj/Debug/net7.0/MIS_321_PA1.csproj.CoreCompileInputs.cache
-C:\Users\Evan Paddock\Desktop\MIS 321\MIS_321_PA1\bin\Debug\net7.0\MIS_321_PA1.exe
-C:\Users\Evan Paddock\Desktop\MIS 321\MIS_321_PA1\bin\Debug\net7.0\MIS_321_PA1.deps.json
-C:\Users\Evan Paddock\Desktop\MIS 321\MIS_321_PA1\bin\Debug\net7.0\MIS_321_PA1.runtimeconfig.json
-C:\Users\Evan Paddock\Desktop\MIS 321\MIS_321_PA1\bin\Debug\net7.0\MIS_321_PA1.dll
-C:\Users\Evan Paddock\Desktop\MIS 321\MIS_321_PA1\bin\Debug\net7.0\MIS_321_PA1.pdb
-C:\Users\Evan Paddock\Desktop\MIS 321\MIS_321_PA1\bin\Debug\net7.0\Newtonsoft.Json.dll
-C:\Users\Evan Paddock\Desktop\MIS 321\MIS_321_PA1\obj\Debug\net7.0\MIS_321_PA1.csproj.AssemblyReference.cache
-C:\Users\Evan Paddock\Desktop\MIS 321\MIS_321_PA1\obj\Debug\net7.0\MIS_321_PA1.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Evan Paddock\Desktop\MIS 321\MIS_321_PA1\obj\Debug\net7.0\MIS_321_PA1.AssemblyInfoInputs.cache
-C:\Users\Evan Paddock\Desktop\MIS 321\MIS_321_PA1\obj\Debug\net7.0\MIS_321_PA1.AssemblyInfo.cs
-C:\Users\Evan Paddock\Desktop\MIS 321\MIS_321_PA1\obj\Debug\net7.0\MIS_321_PA1.csproj.CoreCompileInputs.cache
-C:\Users\Evan Paddock\Desktop\MIS 321\MIS_321_PA1\obj\Debug\net7.0\MIS_321_PA1.csproj.CopyComplete
-C:\Users\Evan Paddock\Desktop\MIS 321\MIS_321_PA1\obj\Debug\net7.0\MIS_321_PA1.dll
-C:\Users\Evan Paddock\Desktop\MIS 321\MIS_321_PA1\obj\Debug\net7.0\refint\MIS_321_PA1.dll
-C:\Users\Evan Paddock\Desktop\MIS 321\MIS_321_PA1\obj\Debug\net7.0\MIS_321_PA1.pdb
-C:\Users\Evan Paddock\Desktop\MIS 321\MIS_321_PA1\obj\Debug\net7.0\MIS_321_PA1.genruntimeconfig.cache
-C:\Users\Evan Paddock\Desktop\MIS 321\MIS_321_PA1\obj\Debug\net7.0\ref\MIS_321_PA1.dll
+C:/Users/Evan Paddock/Desktop/MIS 321/MIS_321_PA1/bin/Debug/net7.0/MIS_321_PA1.exe
+C:/Users/Evan Paddock/Desktop/MIS 321/MIS_321_PA1/bin/Debug/net7.0/MIS_321_PA1.deps.json
+C:/Users/Evan Paddock/Desktop/MIS 321/MIS_321_PA1/bin/Debug/net7.0/MIS_321_PA1.runtimeconfig.json
+C:/Users/Evan Paddock/Desktop/MIS 321/MIS_321_PA1/bin/Debug/net7.0/MIS_321_PA1.dll
+C:/Users/Evan Paddock/Desktop/MIS 321/MIS_321_PA1/bin/Debug/net7.0/MIS_321_PA1.pdb
+C:/Users/Evan Paddock/Desktop/MIS 321/MIS_321_PA1/bin/Debug/net7.0/Newtonsoft.Json.dll
+C:/Users/Evan Paddock/Desktop/MIS 321/MIS_321_PA1/obj/Debug/net7.0/MIS_321_PA1.csproj.AssemblyReference.cache
+C:/Users/Evan Paddock/Desktop/MIS 321/MIS_321_PA1/obj/Debug/net7.0/MIS_321_PA1.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Evan Paddock/Desktop/MIS 321/MIS_321_PA1/obj/Debug/net7.0/MIS_321_PA1.AssemblyInfoInputs.cache
+C:/Users/Evan Paddock/Desktop/MIS 321/MIS_321_PA1/obj/Debug/net7.0/MIS_321_PA1.AssemblyInfo.cs
+C:/Users/Evan Paddock/Desktop/MIS 321/MIS_321_PA1/obj/Debug/net7.0/MIS_321_PA1.csproj.CoreCompileInputs.cache
+C:/Users/Evan Paddock/Desktop/MIS 321/MIS_321_PA1/obj/Debug/net7.0/MIS_321_PA1.csproj.CopyComplete
+C:/Users/Evan Paddock/Desktop/MIS 321/MIS_321_PA1/obj/Debug/net7.0/MIS_321_PA1.dll
+C:/Users/Evan Paddock/Desktop/MIS 321/MIS_321_PA1/obj/Debug/net7.0/refint/MIS_321_PA1.dll
+C:/Users/Evan Paddock/Desktop/MIS 321/MIS_321_PA1/obj/Debug/net7.0/MIS_321_PA1.pdb
+C:/Users/Evan Paddock/Desktop/MIS 321/MIS_321_PA1/obj/Debug/net7.0/MIS_321_PA1.genruntimeconfig.cache
+C:/Users/Evan Paddock/Desktop/MIS 321/MIS_321_PA1/obj/Debug/net7.0/ref/MIS_321_PA1.dll
+/Users/evanpaddock/Desktop/MIS321/PA1/MIS_321_PA1/bin/Debug/net7.0/MIS_321_PA1
+/Users/evanpaddock/Desktop/MIS321/PA1/MIS_321_PA1/bin/Debug/net7.0/MIS_321_PA1.deps.json
+/Users/evanpaddock/Desktop/MIS321/PA1/MIS_321_PA1/bin/Debug/net7.0/MIS_321_PA1.runtimeconfig.json
+/Users/evanpaddock/Desktop/MIS321/PA1/MIS_321_PA1/bin/Debug/net7.0/MIS_321_PA1.dll
+/Users/evanpaddock/Desktop/MIS321/PA1/MIS_321_PA1/bin/Debug/net7.0/MIS_321_PA1.pdb
+/Users/evanpaddock/Desktop/MIS321/PA1/MIS_321_PA1/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/evanpaddock/Desktop/MIS321/PA1/MIS_321_PA1/obj/Debug/net7.0/MIS_321_PA1.csproj.CopyComplete
+/Users/evanpaddock/Desktop/MIS321/PA1/MIS_321_PA1/obj/Debug/net7.0/MIS_321_PA1.dll
+/Users/evanpaddock/Desktop/MIS321/PA1/MIS_321_PA1/obj/Debug/net7.0/refint/MIS_321_PA1.dll
+/Users/evanpaddock/Desktop/MIS321/PA1/MIS_321_PA1/obj/Debug/net7.0/MIS_321_PA1.pdb
+/Users/evanpaddock/Desktop/MIS321/PA1/MIS_321_PA1/obj/Debug/net7.0/MIS_321_PA1.genruntimeconfig.cache
+/Users/evanpaddock/Desktop/MIS321/PA1/MIS_321_PA1/obj/Debug/net7.0/ref/MIS_321_PA1.dll
