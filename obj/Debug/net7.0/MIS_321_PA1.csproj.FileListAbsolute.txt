@@ -1,0 +1,5 @@
+/Users/evanpaddock/Desktop/MIS321/PA1/MIS_321_PA1/obj/Debug/net7.0/MIS_321_PA1.csproj.AssemblyReference.cache
+/Users/evanpaddock/Desktop/MIS321/PA1/MIS_321_PA1/obj/Debug/net7.0/MIS_321_PA1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evanpaddock/Desktop/MIS321/PA1/MIS_321_PA1/obj/Debug/net7.0/MIS_321_PA1.AssemblyInfoInputs.cache
+/Users/evanpaddock/Desktop/MIS321/PA1/MIS_321_PA1/obj/Debug/net7.0/MIS_321_PA1.AssemblyInfo.cs
+/Users/evanpaddock/Desktop/MIS321/PA1/MIS_321_PA1/obj/Debug/net7.0/MIS_321_PA1.csproj.CoreCompileInputs.cache
