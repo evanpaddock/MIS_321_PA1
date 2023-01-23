@@ -2,10 +2,30 @@ namespace MIS_321_PA1
 {
     public class Song //Title, Artist, Date Added, Favorited) 
     {
-        public string title{get; set;}
-        public string artist{get; set;}
-        public DateOnly date_added{get; set;}
-        public int num_favs{get; set;}
-        public List<Song> allsongs{get; set;}
+        public int SongID{get; set;}
+        public string Title{get; set;}
+        public string Artist{get; set;}
+        public DateOnly Date_Added{get; set;}
+        public bool Favorited{get; set;}
+        public bool Deleted{get; set;}
+        static public List<Song> allsongs;
+
+        static public void AddNew()
+        {
+
+        }
+        static public void WriteAllSongs()
+        {
+            foreach (Song song in allsongs)
+            {
+                System.Console.WriteLine(song.ToString());
+            }
+            Console.ReadKey();
+        }
+        public override string ToString()
+        {
+            return($"{Title}\t{Artist}\t{Date_Added}\t{Favorited}");
+        }
     }
+    
 }

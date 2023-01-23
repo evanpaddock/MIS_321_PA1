@@ -1,2 +1,8 @@
-﻿string [] list = {"1","2","3","4"};
-Menu.Main(list);
+﻿using MIS_321_PA1;
+
+FileHandlin.ReadFromJSON();
+
+Menu.MainMenu();
+
+FileHandlin.WriteOutJSON();
+
