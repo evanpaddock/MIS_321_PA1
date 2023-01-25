@@ -6,12 +6,13 @@ public class Menu
             
             System.Console.Clear();
 
-            System.Console.WriteLine("Welcome to ...");
-            System.Console.WriteLine("Type 1 for all songs");
-            System.Console.WriteLine("Type 2 for add a song");
-            System.Console.WriteLine("Type 3 favorite a song");
-            System.Console.WriteLine("Type 4 to delete a song ");
-            System.Console.WriteLine("Type 5 to exit the program\n");
+            System.Console.WriteLine("Welcome to Houndstoothify!" + "\n");
+            System.Console.WriteLine("Enter 1 for all available songs");
+            System.Console.WriteLine("Enter 2 for add a song");
+            System.Console.WriteLine("Enter 3 favorite/unfavorite a song");
+            System.Console.WriteLine("Enter 4 to delete/undelete a song ");
+            System.Console.WriteLine("Enter 5 to exit the program\n");
+            System.Console.Write("Selection here:");
             
             userSelection = Console.ReadLine();
 
@@ -23,7 +24,7 @@ public class Menu
             if (userSelection == "5")
             {
                 Console.Clear();
-                System.Console.WriteLine("Thank you for using ...");
+                System.Console.WriteLine("Thank you for using Houndstoothify!");
             }
             return userSelection;
     }
@@ -34,7 +35,9 @@ public class Menu
         switch (userSelection)
         {
             case "1":
-            Song.WriteAllSongs();
+            Song.WriteUndeletedSongs();
+            System.Console.WriteLine("Press enter to continue.");
+            Console.ReadKey();
             break;
             case "2":
             Song.AddNew();

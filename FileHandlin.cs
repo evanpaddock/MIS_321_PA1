@@ -4,7 +4,7 @@ public class FileHandlin
     static public void ReadFromJSON()
     {
         if (!File.Exists("songs.json")) {
-        File.Create("songs.json");
+            File.Create("songs.json");
         }
 
         string json = File.ReadAllText("songs.json");
@@ -18,6 +18,8 @@ public class FileHandlin
     }
     static public void WriteOutJSON()
     {
+            Song.SortSongs();
+
             File.WriteAllText("songs.json", JsonConvert.SerializeObject(Song.allsongs));
     }
 }
