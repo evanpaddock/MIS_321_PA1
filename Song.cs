@@ -6,7 +6,7 @@ public class Song //Title, Artist, Date Added, Favorited)
     public DateOnly Date_Added{get; set;}
     public bool Favorited{get; set;}
     public bool Deleted{get; set;}
-    static public List<Song?> allsongs;
+    static public List<Song> allsongs{get; set;}
 
     static public void AddNew()
     {

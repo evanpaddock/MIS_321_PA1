@@ -11,7 +11,8 @@ public class Menu
             System.Console.WriteLine("Type 2 for add a song");
             System.Console.WriteLine("Type 3 favorite a song");
             System.Console.WriteLine("Type 4 to delete a song ");
-            System.Console.WriteLine("Type 5 to exit the program");
+            System.Console.WriteLine("Type 5 to exit the program\n");
+            
             userSelection = Console.ReadLine();
 
             while (userSelection != "5")
