@@ -19,7 +19,7 @@ public class FileHandlin
     static public void WriteOutJSON()
     {
             Song.SortSongs();
-
             File.WriteAllText("songs.json", JsonConvert.SerializeObject(Song.allsongs));
     }
 }
+

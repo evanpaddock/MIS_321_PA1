@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "UsiPUa2Jzxlwld9pBNAu0khxt5qYvX4ida6X7o+id8o8cTnpzx3KLcG+a6/Ca/QCY5De2Kg8If3cgG9ghU2QIw==",
+  "dgSpecHash": "laaPIDnJykMNPoWFDXV3l4nRc/8jHzB5NCE6yGl/+5iZw03sJTzHL2cSMxA6nLggmyiEiZjIx74BLi9Gf8B7Xg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Evan Paddock\\Desktop\\MIS 321\\MIS_321_PA1\\MIS_321_PA1.csproj",
+  "projectFilePath": "/Users/evanpaddock/Desktop/MIS321/PA1/MIS_321_PA1/MIS_321_PA1.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Evan Paddock\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+    "/Users/evanpaddock/.nuget/packages/newtonsoft.json/13.0.2/newtonsoft.json.13.0.2.nupkg.sha512"
   ],
   "logs": []
 }
